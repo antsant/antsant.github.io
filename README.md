@@ -1,14 +1,14 @@
 # Thanksgiving 2017
 
 1. [Menu](#menu)
-  1. [The Main Event](#the-main-event)
-  2. [Potatoes & Casseroles](#potatoes-&-casseroles)
-  3. [Vegetable Sides](#vegetable-sides)
-  4. [Desserts & Bread](#desserts-&-bread)
-  5. [Drinks](#drinks)
-2. [Cooking Schedule](#cooking-schedule)
-3. [Shopping List](#shopping-list)
-4. [Equipment](#equipment)
+    1. [The Main Event](#the-main-event)
+    1. [Potatoes & Casseroles](#potatoes-&amp;-casseroles)
+    1. [Vegetable Sides](#vegetable-sides)
+    1. [Desserts & Bread](#desserts-&amp;-bread)
+    1. [Drinks](#drinks)
+1. [Cooking Schedule](#cooking-schedule)
+1. [Shopping List](#shopping-list)
+1. [Equipment](#equipment)
 
 ## Menu
 
@@ -53,7 +53,7 @@ Some suggestions:
 - reds and whites from Mt.Etna in Sicily
 - Spanish reds from Ribeira Sacra
 - Finger Lakes rieslings
-- syrahs from norther Rhone and California
+- syrahs from northern Rhone and California
 - Whatever the wine shop tells you is a good buy
 
 ## Cooking Schedule
