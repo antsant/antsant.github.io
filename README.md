@@ -5,9 +5,9 @@
 ### The Main Event
 
 - [Simple Roast Turkey](https://cooking.nytimes.com/recipes/1015474-simple-roast-turkey) ![Simple roast turkey](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-videoSixteenByNine540.jpg)
-- Rich Cornbread Dressing
-- Make-Ahead Gravy
-- Spicy Red Pepper Cranberry Relish
+- [Rich Cornbread Dressing](https://cooking.nytimes.com/recipes/418-rich-cornbread-dressing) ![Rich cornbread dressing](https://static01.nyt.com/images/2015/10/16/dining/16COOKING-CORNBREADDRESSING/16COOKING-CORNBREADDRESSING-articleLarge.jpg)
+- [Make-Ahead Gravy](https://cooking.nytimes.com/recipes/1015197-make-ahead-gravy) ![Make-ahead gravy](https://static01.nyt.com/images/2013/11/08/dining/08makeaheadgravy/08makeaheadgravy-mediumThreeByTwo440-v3.jpg)
+- [Spicy Red Pepper Cranberry Relish](https://cooking.nytimes.com/recipes/1015348-spicy-red-pepper-cranberry-relish) ![Spicy red pepper cranberry relish](https://static01.nyt.com/images/2013/11/08/dining/08spicyredpeppercranberry/08spicyredpeppercranberry-articleLarge.jpg)
 
 ### Potatoes & Casseroles
 
