@@ -2,9 +2,9 @@
 
 1. [Menu](#menu)
     1. [The Main Event](#the-main-event)
-    1. [Potatoes & Casseroles](#potatoes-&amp;-casseroles)
+    1. [Potatoes & Casseroles](#potatoes-and-casseroles)
     1. [Vegetable Sides](#vegetable-sides)
-    1. [Desserts & Bread](#desserts-&amp;-bread)
+    1. [Desserts & Bread](#desserts-and-bread)
     1. [Drinks](#drinks)
 1. [Cooking Schedule](#cooking-schedule)
 1. [Shopping List](#shopping-list)
@@ -19,7 +19,7 @@
 - [Make-Ahead Gravy](https://cooking.nytimes.com/recipes/1015197-make-ahead-gravy) ![Make-ahead gravy](https://static01.nyt.com/images/2013/11/08/dining/08makeaheadgravy/08makeaheadgravy-mediumThreeByTwo440-v3.jpg)
 - [Spicy Red Pepper Cranberry Relish](https://cooking.nytimes.com/recipes/1015348-spicy-red-pepper-cranberry-relish) ![Spicy red pepper cranberry relish](https://static01.nyt.com/images/2013/11/08/dining/08spicyredpeppercranberry/08spicyredpeppercranberry-articleLarge.jpg)
 
-### Potatoes &amp; Casseroles
+### <a name="potatoes-and-casseroles"></a>Potatoes & Casseroles
 
 - [Garlic Mashed Potatoes](https://cooking.nytimes.com/recipes/4288-garlic-mashed-potatoes) ![Garlic mashed potatoes](https://static01.nyt.com/images/2015/10/15/dining/15COOKING-MASHEDPOTATOES2/15COOKING-MASHEDPOTATOES2-articleLarge.jpg)
 - [Four-Cheese Macaroni and Cheese](https://cooking.nytimes.com/recipes/1014635-four-cheese-macaroni-and-cheese) ![Four-cheese macaroni and cheese](https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg)
@@ -31,7 +31,7 @@
 - [Salad with Anchovy-Mustard Vinaigrette](https://cooking.nytimes.com/recipes/1015839-salad-with-anchovy-mustard-vinaigrette) ![Salad with anchovy-mustard vinaigrette](https://static01.nyt.com/images/2013/12/18/dining/20131218-APPE-slide-N1AO/20131218-APPE-slide-N1AO-articleLarge.jpg)
 - [Turnip Gratin](https://cooking.nytimes.com/recipes/12252-turnip-gratin) ![Turnip gratin](https://static01.nyt.com/images/2012/01/03/science/06recipehealth/06recipehealth-articleLarge-v2.jpg)
 
-### Desserts &amp; Bread
+### <a name="desserts-and-bread"></a>Desserts & Bread
 
 - [Apple Pie](https://cooking.nytimes.com/recipes/12320-apple-pie) ![Apple pie](https://static01.nyt.com/images/2012/02/19/magazine/19eat_span/19eat_span-articleLarge-v2.jpg)
 - [Brandied Pumpkin Pie](https://cooking.nytimes.com/recipes/1015413-brandied-pumpkin-pie) ![Brandied pumpkin pie](https://static01.nyt.com/images/2014/11/11/multimedia/clark-brandied-pumpkin/clark-brandied-pumpkin-mediumThreeByTwo440.jpg)
