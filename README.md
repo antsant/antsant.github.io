@@ -16,16 +16,16 @@
 
 ### Vegetable Sides
 
-- [Hashed Brussel Sprouts with Lemon](https://cooking.nytimes.com/recipes/453-hashed-brussels-sprouts-with-lemon)
-- Roasted Butternut Squash and Red Onions
-- Salad with Anchovy-Mustard Vinaigrette
-- Turnip Gratin
+- [Hashed Brussel Sprouts with Lemon](https://cooking.nytimes.com/recipes/453-hashed-brussels-sprouts-with-lemon) ![Hashed brussel sprouts with lemon](https://static01.nyt.com/images/2015/03/18/dining/hashed-brussel-sprouts/hashed-brussel-sprouts-mediumThreeByTwo440.jpg)
+- [Roasted Butternut Squash and Red Onions](https://cooking.nytimes.com/recipes/1015421-roasted-butternut-squash-and-red-onions) ![Roasted butternut squash and red onions](https://static01.nyt.com/images/2013/11/11/dining/video-thanksgiving-squash/video-thanksgiving-squash-articleLarge.jpg)
+- [Salad with Anchovy-Mustard Vinaigrette](https://cooking.nytimes.com/recipes/1015839-salad-with-anchovy-mustard-vinaigrette) ![Salad with anchovy-mustard vinaigrette](https://static01.nyt.com/images/2013/12/18/dining/20131218-APPE-slide-N1AO/20131218-APPE-slide-N1AO-articleLarge.jpg)
+- [Turnip Gratin](https://cooking.nytimes.com/recipes/12252-turnip-gratin) ![Turnip gratin](https://static01.nyt.com/images/2012/01/03/science/06recipehealth/06recipehealth-articleLarge-v2.jpg)
 
 ### Desserts & Bread
 
-- Apple Pie
-- Brandied Pumpkin Pie
-- Brown Butter Skillet Cornbread
+- [Apple Pie](https://cooking.nytimes.com/recipes/12320-apple-pie) ![Apple pie](https://static01.nyt.com/images/2012/02/19/magazine/19eat_span/19eat_span-articleLarge-v2.jpg)
+- [Brandied Pumpkin Pie](https://cooking.nytimes.com/recipes/1015413-brandied-pumpkin-pie) ![Brandied pumpkin pie](https://static01.nyt.com/images/2014/11/11/multimedia/clark-brandied-pumpkin/clark-brandied-pumpkin-mediumThreeByTwo440.jpg)
+- [Brown Butter Skillet Cornbread](https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread) ![Brown butter skillet cornbread](https://static01.nyt.com/images/2014/11/05/multimedia/clark-maple-cornbread/clark-maple-cornbread-mediumThreeByTwo440.jpg)
 
 ### Drinks
 
