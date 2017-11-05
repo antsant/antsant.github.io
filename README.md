@@ -1,5 +1,15 @@
 # Thanksgiving 2017
 
+1. [Menu](#menu)
+  1. [The Main Event](#the-main-event)
+  2. [Potatoes & Casseroles](#potatoes-&-casseroles)
+  3. [Vegetable Sides](#vegetable-sides)
+  4. [Desserts & Bread](#desserts-&-bread)
+  5. [Drinks](#drinks)
+2. [Cooking Schedule](#cooking-schedule)
+3. [Shopping List](#shopping-list)
+4. [Equipment](#equipment)
+
 ## Menu
 
 ### The Main Event
