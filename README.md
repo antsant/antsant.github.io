@@ -11,12 +11,12 @@
 
 ### Potatoes & Casseroles
 
-- Garlic Mashed Potatoes
-- Four-Cheese Macaroni and Cheese
+- [Garlic Mashed Potatoes](https://cooking.nytimes.com/recipes/4288-garlic-mashed-potatoes) ![Garlic mashed potatoes](https://static01.nyt.com/images/2015/10/15/dining/15COOKING-MASHEDPOTATOES2/15COOKING-MASHEDPOTATOES2-articleLarge.jpg)
+- [Four-Cheese Macaroni and Cheese](https://cooking.nytimes.com/recipes/1014635-four-cheese-macaroni-and-cheese) ![Four-cheese macaroni and cheese](https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg)
 
 ### Vegetable Sides
 
-- Hashed Brussel Sprouts with Lemon
+- [Hashed Brussel Sprouts with Lemon](https://cooking.nytimes.com/recipes/453-hashed-brussels-sprouts-with-lemon)
 - Roasted Butternut Squash and Red Onions
 - Salad with Anchovy-Mustard Vinaigrette
 - Turnip Gratin
