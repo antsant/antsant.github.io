@@ -4,7 +4,7 @@
 
 ### The Main Event
 
-- Simple Roast Turkey
+- [Simple Roast Turkey](https://cooking.nytimes.com/recipes/1015474-simple-roast-turkey) ![Simple roast turkey](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-videoSixteenByNine540.jpg)
 - Rich Cornbread Dressing
 - Make-Ahead Gravy
 - Spicy Red Pepper Cranberry Relish
