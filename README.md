@@ -14,7 +14,7 @@
 
 ### The Main Event
 
-- [Simple Roast Turkey](https://cooking.nytimes.com/recipes/1015474-simple-roast-turkey) ![Simple roast turkey](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-videoSixteenByNine540.jpg)
+- Simple Roast Turkey ![Simple roast turkey](https://static01.nyt.com/images/2014/04/08/dining/unturkey-still/unturkey-still-videoSixteenByNine540.jpg)
 - [Rich Cornbread Dressing](https://cooking.nytimes.com/recipes/418-rich-cornbread-dressing) ![Rich cornbread dressing](https://static01.nyt.com/images/2015/10/16/dining/16COOKING-CORNBREADDRESSING/16COOKING-CORNBREADDRESSING-articleLarge.jpg)
 - [Make-Ahead Gravy](https://cooking.nytimes.com/recipes/1015197-make-ahead-gravy) ![Make-ahead gravy](https://static01.nyt.com/images/2013/11/08/dining/08makeaheadgravy/08makeaheadgravy-mediumThreeByTwo440-v3.jpg)
 - [Spicy Red Pepper Cranberry Relish](https://cooking.nytimes.com/recipes/1015348-spicy-red-pepper-cranberry-relish) ![Spicy red pepper cranberry relish](https://static01.nyt.com/images/2013/11/08/dining/08spicyredpeppercranberry/08spicyredpeppercranberry-articleLarge.jpg)
@@ -39,7 +39,7 @@
 
 ### Drinks
 
-13 Bottles of Wine - mix of Red & White. Lighter, more acidic is better to balance out the heavy meal than a heavy, tannic wine like a Cab. Avoid wines higher than 14.5% alcohol, 12-13.5% is ideal. Six packs of dry cider or beer (pilsner, dark porter, pale ale, stout) is also good if you don't want to bring wine.
+11 Bottles of Wine - mix of Red & White. Lighter, more acidic is better to balance out the heavy meal than a heavy, tannic wine like a Cab. Avoid wines higher than 14.5% alcohol, 12-13.5% is ideal. Six packs of dry cider or beer (pilsner, dark porter, pale ale, stout) are also good if you don't want to bring wine.
 
 Some suggestions:
 
@@ -57,6 +57,22 @@ Some suggestions:
 - Whatever the wine shop tells you is a good buy
 
 ## Cooking Schedule
+
+1+ weeks before:
+
+Friday:
+
+- Start thawing the turkey
+
+Tuesday:
+
+- Dry brine the turkey ([Simple Roast Turkey](https://cooking.nytimes.com/recipes/1015474-simple-roast-turkey), Step 1)
+
+T-minus 6 hours:
+
+- Start cooking the turkey ([Simple Roast Turkey](https://cooking.nytimes.com/recipes/1015474-simple-roast-turkey), Steps 2+)
+
+
 
 ## Shopping List
 
