@@ -1,5 +1,23 @@
 ## Ingredients
 
+### Dairy
+
+### Produce
+
+### Baking Goods
+
+### Spices
+
+### Alcohol
+
+### Frozen
+
+### Oil
+
+### Bulk/Pantry
+
+### Bakery
+
 [ ] 12 large ears of corn
 [ ] 17 tablespoons + 1/2 pound unsalted butter
 [ ] 6 tablespoons minced shallot or red onion
