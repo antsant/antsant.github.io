@@ -84,4 +84,9 @@
 - [ ] 1/4 cup raw brown (turbinado) sugar
 - [ ] 1 1/2 teaspoons baking powder
 - [ ] 1/3 cup organic white sugar
+- [ ] 8 lb. Yukon Gold potatoes, peeled and quartered
+- [ ] 3 cups half-and-half
+- [ ] 16 Tbs. (2 stick) unsalted butter
+- [ ] 4 cups grated cheddar cheese
+- [ ] 1/2 cup snipped fresh chives
 
