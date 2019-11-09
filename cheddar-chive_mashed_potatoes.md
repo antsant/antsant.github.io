@@ -26,7 +26,7 @@ Make up to 1 day ahead.
 
 *Make ahead tips:* Peel and quarter the potatoes 1 day in advance; place them in a bowl, add cold water to over and refrigerate. If desired, cook and mash the potatoes up to 2 hours before serving, but do not add the cheese and chives. Cover the potatoes tightly with plastic wrap and keep warm in a bain-marie (hot water bath). Just before serving, fold in the cheese and chives and bake as directed.
 
-=== Equipment
+### Equipment
 
 * measuring cups
 * knives
