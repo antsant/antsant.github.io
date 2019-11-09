@@ -1,5 +1,23 @@
 ## Ingredients
 
+### Dairy
+
+### Produce
+
+### Baking Goods
+
+### Spices
+
+### Alcohol
+
+### Frozen
+
+### Oil
+
+### Bulk/Pantry
+
+### Bakery
+
 * 12 large ears of corn
 * 17 tablespoons + 1/2 pound unsalted butter
 * 6 tablespoons minced shallot or red onion
@@ -30,7 +48,7 @@
 * 4 to 6 pounds brussels sprouts
 * 4 tablespoons olive oil
 * 6 garlic cloves
-* 4 tablespoons black mustar seeds, cumin seeds, or poppy seeds
+* 4 tablespoons black mustard seeds, cumin seeds, or poppy seeds
 * 1 cup dry white wine or vermouth
 * 3 pounds + 2 cups finely grated medium carrots
 * 4 tablespoons coconut oil
