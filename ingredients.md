@@ -85,10 +85,10 @@
 ### Bulk/Pantry/Other
 
 - [ ] 16 ounces applesauce
-- [ ] 1 1/2 cup dried cherries
-- [ ] 1 cup dried cranberries (150 grams)
-- [ ] 2-4 cups chicken stock
-- [ ] 6 tablespoons honey
-- [ ] 6 tablespoons + 3/4 cup pure maple syrup
-- [ ] 6 tablespoons instant tapioca (75 grams)
+- [ ] 9 ounces dried cherries
+- [ ] 6 ounces dried cranberries
+- [ ] 32 ounces chicken stock
+- [ ] 3 ounces honey
+- [ ] 9 ounces pure maple syrup
+- [ ] 3 ounces instant tapioca (75 grams)
 - [ ] 5 cups dried beans (for blind baking pie crust)
